@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gotham City — Historia e Identidad</title>
+<header>
+    <h1>Gotham City</h1>
+    <p><em>Portal Oficial de Identidad, innovación e historia</em></p>
+      <!-- Navegación principal del sitio (rutas relativas entre páginas) -->
+        <nav aria-label="Navegación principal">
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="ciudad.html">Historia y Ciudad</a></li>
+                <li><a href="lugares.html">Lugares de Interés</a></li>
+                <li><a href="contacto.html">Contacto</a></li>
+            </ul>
+        </nav>
+  </header>
+  <main>
+    <!-- Enlace tipo ancla interna para saltar directo a una sección -->
+        <p><a href="#datos-clave">Saltar a la Ficha de Datos Clave</a></p>
+
+        <section id="historia">
+            <h2>Historia e Identidad</h2>
+            <p>
+                Fundada en el siglo XVII, Ciudad Gótica comenzó como un pequeño asentamiento mercantil y evolucionó hasta convertirse en uno de los centros financieros e industriales más influyentes del país. Su identidad está profundamente ligada al acero, la arquitectura neogótica y la resiliencia de sus habitantes.
+            </p>
+            <p>
+                Durante el siglo XX, la familia <strong>Wayne</strong> impulsó la modernización de la metrópolis con la construcción de infraestructuras clave, como el sistema de trenes elevados y la imponente Torre Wayne. A pesar de los periodos de crisis y marcado estigma criminal, la ciudad se destaca por su riqueza cultural e historia industrial.
+            </p>
+        </section>
+<body>
+    <h1>La historia de ciudad gotica </h1>
+    <p><strong>Según el canon establecido por el escritor Alan Moore y seguido por la mayoría de las narrativas de DC Comics, la ciudad fue fundada en 1635 por un mercenario noruego (o sueco, según la versión) llamado Jon Logerquist, paralelamente a la fundación de Nueva York por holandeses. <br>  La historia de la ciudad incluye:</strong></P>
+    <h2>Conquista Británica:</h2>
+    <p>LA CONQUISTA BRITÁNICA: DOS CAPAS DE UNA MISMA COSTA
+1. La historia real (1664–1674)
+En 1664, durante la disputa entre ingleses y holandeses, el soldado
+Richard Nicolls tomó el control de Nueva Holanda casi sin resistencia.
+El asentamiento principal, Nueva Ámsterdam, pasó a manos de la Corona.
+Los holandeses lograron recuperarlo en 1673, pero lo perdieron de forma
+definitiva en 1674, tras la Tercera Guerra Anglo-Holandesa y el Tratado
+de Westminster. Los ingleses rebautizaron la plaza como New York, en
+honor al duque de York, y desde entonces la ciudad creció hasta ser,
+en vísperas de la Independencia, una de las urbes más importantes del
+Imperio después de Londres y Filadelfia. Su puerto excepcional, que
+unía el comercio atlántico con las rutas del interior, explica por qué
+su control se disputó tanto.
+2. La leyenda de Gotham
+En el universo de DC Comics, esa misma costa alberga Gotham City, la
+ciudad de Batman. Según su mitología, el asentamiento fue fundado en
+1635 por un mercenario y pasó luego al Imperio Británico. La historia
+temprana de Gotham se habría conservado sobre todo por vía oral: relatos
+de colonos que sobrevivieron años difíciles, encuentros con seres
+míticos y disputas por cementerios de nativos americanos. Un trampero
+contó haber visto a un indio desnudo caminar desde el bosque hacia el
+pueblo, con pozos de sangre en las calles y ningún cuerpo a la vista.
+3. Dónde se cruzan
+Ambas capas comparten escenario geográfico y un mismo hecho narrativo
+central: una potencia europea que se apodera de un asentamiento costero
+y le impone un nombre nuevo. La diferencia es de estatus: una es un
+episodio documentado del siglo XVII que dio origen a Nueva York; la otra
+es invención editorial del siglo XX construida sobre esa misma costa.</p>
+<img src="IMG/conquista_britanica.jpg" height="400">
+    <h2>Desarrollo Urbano</h2>
+    <p>En el siglo XIX, la historia urbana de Gotham dio un giro decisivo cuando el juez Solomon Wayne y el arquitecto Cyrus Pinkney unieron fuerzas para impulsar una ambiciosa reforma urbanística. Su objetivo principal era transformar la ciudad en un centro financiero próspero y monumental, marcando el diseño arquitectónico y la estructura de la metrópoli para las décadas venideras. Sin embargo, detrás de las imponentes fachadas y el aparente progreso económico, este nuevo trazado urbano quedó profundamente ligado a las sombras de la corrupción institucional, sentando las bases de una ciudad dividida entre su grandeza superficial y su compleja realidad interna.</p>
+   <img src="IMG/Arquitectura_sigloXIX.webp" height="400">
+    <h2>Era Moderna</h2>
+    <p>La Era Moderna de Gotham City representa la culminación y el colapso definitivo de las estructuras podridas que se habían gestado desde su fundación colonial y su diseño decimonónico. Lo que en el siglo XIX fue planificado como un centro financiero imponente y exclusivo, sostenido sobre la corrupción y la opulencia de las élites, terminó convirtiéndose en un hervidero ingobernable donde el crimen organizado y la locura institucionalizada pasaron a ser los verdaderos motores de la metrópoli. La acumulación de tensiones sociales, la miseria en los suburbios y la podredumbre política crearon un ecosistema frágil que, en la época contemporánea, colapsó de manera estrepitosa bajo el peso de sus propias contradicciones.
+Este derrumbe multifacético tuvo sus puntos de inflexión más dramáticos en eventos catastróficos que alteraron no solo la demografía y la infraestructura de Gotham, sino también la psique de sus habitantes. El hito más devastador a nivel físico fue el terremoto conocido como *"Cataclysm"*, un sismo de gran magnitud que redujo a escombros los históricos monumentos góticos, los puentes y los rascacielos diseñados por figuras como Cyrus Pinkney. Lejos de ser un mero desastre natural, la tragedia expuso la desidia estatal cuando el gobierno federal decidió aislar y abandonar a la ciudad, declarándola "Tierras de Nadie" (*No Man's Land*). Este abandono institucional transformó las ruinas en un territorio tribal disputado por señores del crimen, pandillas y ciudadanos empujados al límite de la supervivencia.
+A la par de la devastación física, Gotham debió enfrentar embates biológicos y psicológicos de escala apocalíptica, impulsados por mentes criminales que operaban más allá del mero lucro económico. Un claro ejemplo de esto fue la liberación sistemática de virus letales y agentes patógenos por parte de mentes maestras como Ra's al Ghul, cuyos planes buscaban una "purificación" radical de la humanidad a través de la aniquilación masiva. Episodios como la epidemia del virus *Ebola Spores* (o el infame virus *Clench*) demostraron que la vulnerabilidad de la ciudad ya no radicaba solo en sus precarios cimientos financieros, sino en la fragilidad de su salud pública frente al bioterrorismo.
+De este modo, la Era Moderna consolidó a Gotham no como un faro de la civilización moderna, sino como un escenario distópico perpetuo. En este entorno, el crimen organizado tradicional de las familias mafiosas dio paso a una "locura organizada" encarnada por supervillanos y terroristas globales, obligando a la ciudad a subsistir en un estado de emergencia permanente donde la catástrofe dejó de ser una eventualidad para convertirse en su norma cotidiana.</p>
+  <img src="IMG/Gotham_era_moderna.avif" alt="100">
+<h2>Corte de los Búhos</h2>
+    <p>La revelación de la existencia de la Corte de los Búhos expone que los cimientos de Gotham siempre estuvieron manipulados por una élite secreta y ancestral que ha controlado los hilos del poder en la ciudad durante siglos, operando desde las sombras por debajo de la arquitectura y la política visible.
+Esta misteriosa sociedad secreta, integrada por las familias más acaudaladas y poderosas de la metrópoli, demuestra que la historia oficial de prosperidad y los supuestos avances urbanísticos —incluso aquellos impulsados por figuras históricas como los Wayne o los magnates de los siglos pasados— fueron en realidad una fachada decorativa. Detrás de los rascacielos y los tribunales, la Corte ha manejado la política, la economía y el destino de Gotham a través de métodos de control implacables, valiéndose de asesinos de élite conocidos como los *Talons* (Garras) para eliminar cualquier disidencia o amenaza a su dominio dinástico.
+Esta capa oculta redefine por completo la identidad de la ciudad, sugiriendo que la corrupción en Gotham no es un simple producto de la delincuencia común o de fallas administrativas modernas, sino el resultado de un sistema deliberado y milenario diseñado para mantener a la población bajo el yugo de una oligarquía intocable. De este modo, la ciudad se revela como un tablero de ajedrez donde las instituciones visibles son solo una ilusión, y el verdadero poder recae en una cofradía que ha permanecido inmune al paso del tiempo y a las catástrofes.</p>
+<img src="IMG/corte_Buhos.webp" width="500">
+<main>
+        <!-- Enlace tipo ancla interna para saltar directo a una sección -->
+        <p><a href="#datos-clave">Saltar a la Ficha de Datos Clave</a></p>
+
+        <section id="historia">
+            <h2>Historia e Identidad</h2>
+            <p>
+                Fundada en el siglo XVII, Ciudad Gótica comenzó como un pequeño asentamiento mercantil y evolucionó hasta convertirse en uno de los centros financieros e industriales más influyentes del país. Su identidad está profundamente ligada al acero, la arquitectura neogótica y la resiliencia de sus habitantes.
+            </p>
+            <p>
+                Durante el siglo XX, la familia <strong>Wayne</strong> impulsó la modernización de la metrópolis con la construcción de infraestructuras clave, como el sistema de trenes elevados y la imponente Torre Wayne. A pesar de los periodos de crisis y marcado estigma criminal, la ciudad se destaca por su riqueza cultural e historia industrial.
+            </p>
+        </section>
+
+<section>
+      <h2>Datos Clave de Gotham</h2>
+      <ul>
+        <li><strong>Fundación:</strong> 1635</li>
+        <li><strong>Ubicación:</strong> Estado de New Jersey, Costa Este</li>
+        <li><strong>Sede Principal:</strong> Wayne Tower (Distrito Financiero)</li>
+        <li><strong>Infraestructura Crítica:</strong> GCPD, Asilo Arkham, Puerto de Gotham</li>
+      </ul>
+    </section>
+     <section id="archivos">
+            <h2>Registros y Fichas Informativas</h2>
+            <article>
+                <h3>El Asilo Arkham</h3>
+                <time datetime="1921-11-15">15 de noviembre de 1921</time>
+                <p>
+                    Fundado por Amadeus Arkham, este hospital psiquiátrico de alta seguridad alberga a los criminales más peligrosos y de mayor inestabilidad mental de la ciudad.
+                </p>
+                <figure>
+                    <img src="img/arkham.jpg" alt="Fachada principal del Asilo Arkham bajo la niebla">
+                    <figcaption>Entrada principal de las instalaciones de Arkham.</figcaption>
+                </figure>
+            </article>
+
+            <article>
+                <h3>Departamento de Policía (GCPD)</h3>
+                <time datetime="1986-04-10">10 de abril de 1986</time>
+                <p>
+                    Bajo el liderazgo de comisionados clave, el GCPD libra una batalla constante contra el crimen organizado y las redes de corrupción interna.
+                </p>
+            </article>
+        </section>
+</main>
+ <aside>
+            <h2>Dato de Interés</h2>
+            <p>
+                Se rumorea que bajo las calles de Gótica existe una intrincada red de túneles abandonados construidos durante la Guerra Civil, conectados con la mítica <em>Batcueva</em>.
+            </p>
+        </aside>
+    </main>
+    <section id="barrios">
+            <h2>Barrios y Zonas Principales</h2>
+            <p>La metrópolis se divide en distritos con identidades bien marcadas:</p>
+            <ul>
+                <li><strong>Centro Financiero (Downtown):</strong> Corazón económico dominado por rascacielos y oficinas corporativas.</li>
+                <li><strong>Isla Miagani:</strong> Zona turística e histórica conocida por sus teatros y museos.</li>
+                <li><strong>The Narrows:</strong> Antiguo sector insular de calles estrechas y arquitectura centenaria.</li>
+            </ul>
+        </section>
+
+        
+            <h2>Datos Clave de la Ciudad</h2>
+            <dl>
+                <dt>Año de Fundación</dt>
+                <dd>1635</dd>
+
+                <dt>Población Ficticia</dt>
+                <dd>6.300.000 habitantes</dd>
+
+                <dt>Gentilicio</dt>
+                <dd>Goticano / Goticana</dd>
+
+                <dt>Clima Predominante</dt>
+                <dd>Templado húmedo, con niebla frecuente y precipitaciones moderadas</dd>
+
+                <dt>Fundador Histórico</dt>
+                <dd>Jonatan Vale (Colono europeo)</dd>
+            </dl>
+        </section>
+
+        <article>
+            <h3>Patrimonio Arquitectónico</h3>
+            <p>
+                Las icónicas gárgolas que decoran los techos de la ciudad no son solo ornamentales: formaron parte de un proyecto del siglo XIX para canalizar el agua de lluvia y espantar los malos augurios.
+            </p>
+            <figure>
+                <img src="https://picsum.photos/id/1040/600/300" alt="Vista panorámica de los rascacielos estilo neogótico en Ciudad Gótica">
+                <figcaption>Arquitectura industrial y neogótica característica del perfil urbano.</figcaption>
+            </figure>
+        </article>
+
+        <aside>
+            <h2>Sabías que...</h2>
+            <p>
+                Existe una red precolombina de túneles bajo el suelo urbano que fue reutilizada durante la Revolución como ruta de escape y abastecimiento.
+            </p>
+        </aside>
+    </main>
+<footer>
+     <h2>Contacto Institucional</h2>
+        <address>
+            Departamento de Archivos Archivos de Gótica<br>
+            Avenida Park Row 100, Ciudad Gótica<br>
+            Teléfono: <a href="tel:+15550192834">555-019-2834</a><br>
+            Correo: <a href="mailto:archivos@gothamcity.gov">archivos@gothamcity.gov</a>
+        </address>
+    <p>&copy; <small>&copy; 2026 Municipio de Ciudad Gótica. Todos los derechos reservados.</small></p>
+  </footer>
+</body>
+</html>
