@@ -1,0 +1,65 @@
+/* ==========================================
+   1. VARIABLES Y PALETA DE GOTHAM CITY
+   ========================================== */
+:root {
+    --color-fondo-base: #0B0C10;     /* Negro profundo */
+    --color-contenedor: #1F2833;     /* Gris oscuro metálico */
+    --color-header: #121212;         /* Negro azabache */
+    --color-acento: #C5A059;         /* Dorado / Bronce gótico */
+    --color-texto-principal: #E0E0E0;/* Gris claro */
+}
+
+/* ==========================================
+   2. RESET Y ESTILOS GENERALES
+   ========================================== */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+    background-color: var(--color-fondo-base);
+    color: var(--color-texto-principal);
+}
+
+/* ==========================================
+   3. POSICIONAMIENTO Y LAYOUTS AVANZADOS
+   ========================================== */
+/* Header sticky para que quede fijo al hacer scroll (Semana 9 / TP Etapa 3) */
+header.sticky-top {
+    z-index: 1030;
+}
+
+/* ==========================================
+   4. PERSONALIZACIONES SOBRE BOOTSTRAP
+   ========================================== */
+/* Clases de soporte para la paleta gótica */
+.bg-gothic {
+    background-color: var(--color-header) !important;
+    border-bottom: 2px solid var(--color-acento);
+}
+
+.bg-card-dark {
+    background-color: var(--color-contenedor) !important;
+    border: 1px solid #2C3531 !important;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Efecto hover avanzado sobre las cards (Requisito de personalización) */
+.bg-card-dark:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(197, 160, 89, 0.15) !important;
+}
+
+/* Sobrescritura de botones de Bootstrap a la paleta del sitio */
+.btn-outline-warning {
+    color: var(--color-acento);
+    border-color: var(--color-acento);
+}
+
+.btn-outline-warning:hover {
+    background-color: var(--color-acento);
+    color: #000000;
+}
